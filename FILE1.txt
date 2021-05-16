@@ -1,0 +1,5 @@
+file 2
+this is done at time of learning skipping staging area
+this is done at time of learning unstaging a file
+this is done at time of learning unmodifying a file
+this is from master

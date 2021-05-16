@@ -1,0 +1,5 @@
+first version
+i want to make a commit
+it is updated
+ignored
+now after --cached it will be untracked
